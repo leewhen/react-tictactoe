@@ -88,6 +88,7 @@ function App() {
 
   return (
     <div className="game">
+      Tic-Tac-Toe
       <div className="game-board">
         <Board 
           squares={current.squares}
